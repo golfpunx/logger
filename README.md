@@ -1,8 +1,9 @@
 # logger
 Golang Logger
+
 An easy way to use my own logging.
 
-## How to use
+### How to use
 1. go get 
 ```sh
 $ go get github.com/golfpunx/logger 
@@ -12,7 +13,7 @@ $ go get github.com/golfpunx/logger
 import "github.com/golfpunx/logger"
 ```
 
-## Example
+### Example
 ```go
 package main
 
